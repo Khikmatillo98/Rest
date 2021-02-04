@@ -26,5 +26,3 @@ class Cart(models.Model):
     pass 
 
 
-class Student(models.Model):
-    pass 
