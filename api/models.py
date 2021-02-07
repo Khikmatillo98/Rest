@@ -22,7 +22,3 @@ class User(models.Model):
     pass 
 
 
-class Cart(models.Model):
-    pass 
-
-
